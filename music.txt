@@ -1,0 +1,2 @@
+
+((:TITLE "My kind of girl" :ARTIST "Mac Demarco" :RATING 4 :RIPPED T) (:TITLE "Birds don't sing" :ARTIST "TV Girl" :RATING 5 :RIPPED NIL) (:TITLE "Not Allowed" :ARTIST "TV Girl" :RATING 5 :RIPPED NIL) (:TITLE "Housito" :ARTIST "Youtube" :RATING 3 :RIPPED NIL)) 
